@@ -1,4 +1,4 @@
-# Resutls Summary App
+# Results Summary App
 
 ## React, CSS
 
